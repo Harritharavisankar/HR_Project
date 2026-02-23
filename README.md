@@ -14,3 +14,5 @@ This project contains database objects related to employee management.
 - Oracle Database
 - PL/SQL
 - Git
+
+## Feature: Add New Table
